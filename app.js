@@ -1,3 +1,3 @@
 function showMessage() {
-  alert("Hello Nagarjuna!");
+  alert("Button clicked successfully!");
 }
